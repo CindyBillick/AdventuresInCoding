@@ -77,7 +77,7 @@ namespace AdventuresInCodingConsol
                           " closet and her last known location - the town square.");
                 //Just an idea for an opener -working on the town square scene.
 
-                Console.WriteLine("Enter Your Name:");
+                Console.WriteLine("What is Your Name:");
                 string name = Console.ReadLine();
                 Console.WriteLine("Choose Your Class:");
                 string[] allclass = { "Striker", "Rouge", "Wizard", "Monk" };
