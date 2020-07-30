@@ -1,0 +1,13 @@
+C:\Users\cbill\OneDrive\Desktop\repos\AdventuresInCodingConsolApp\AdventuresInCodingConsol\obj\Debug\netcoreapp3.1\AdventuresInCodingConsol.csprojAssemblyReference.cache
+C:\Users\cbill\OneDrive\Desktop\repos\AdventuresInCodingConsolApp\AdventuresInCodingConsol\obj\Debug\netcoreapp3.1\AdventuresInCodingConsol.AssemblyInfoInputs.cache
+C:\Users\cbill\OneDrive\Desktop\repos\AdventuresInCodingConsolApp\AdventuresInCodingConsol\obj\Debug\netcoreapp3.1\AdventuresInCodingConsol.AssemblyInfo.cs
+C:\Users\cbill\OneDrive\Desktop\repos\AdventuresInCodingConsolApp\AdventuresInCodingConsol\obj\Debug\netcoreapp3.1\AdventuresInCodingConsol.csproj.CoreCompileInputs.cache
+C:\Users\cbill\OneDrive\Desktop\repos\AdventuresInCodingConsolApp\AdventuresInCodingConsol\bin\Debug\netcoreapp3.1\AdventuresInCodingConsol.exe
+C:\Users\cbill\OneDrive\Desktop\repos\AdventuresInCodingConsolApp\AdventuresInCodingConsol\bin\Debug\netcoreapp3.1\AdventuresInCodingConsol.deps.json
+C:\Users\cbill\OneDrive\Desktop\repos\AdventuresInCodingConsolApp\AdventuresInCodingConsol\bin\Debug\netcoreapp3.1\AdventuresInCodingConsol.runtimeconfig.json
+C:\Users\cbill\OneDrive\Desktop\repos\AdventuresInCodingConsolApp\AdventuresInCodingConsol\bin\Debug\netcoreapp3.1\AdventuresInCodingConsol.runtimeconfig.dev.json
+C:\Users\cbill\OneDrive\Desktop\repos\AdventuresInCodingConsolApp\AdventuresInCodingConsol\bin\Debug\netcoreapp3.1\AdventuresInCodingConsol.dll
+C:\Users\cbill\OneDrive\Desktop\repos\AdventuresInCodingConsolApp\AdventuresInCodingConsol\bin\Debug\netcoreapp3.1\AdventuresInCodingConsol.pdb
+C:\Users\cbill\OneDrive\Desktop\repos\AdventuresInCodingConsolApp\AdventuresInCodingConsol\obj\Debug\netcoreapp3.1\AdventuresInCodingConsol.dll
+C:\Users\cbill\OneDrive\Desktop\repos\AdventuresInCodingConsolApp\AdventuresInCodingConsol\obj\Debug\netcoreapp3.1\AdventuresInCodingConsol.pdb
+C:\Users\cbill\OneDrive\Desktop\repos\AdventuresInCodingConsolApp\AdventuresInCodingConsol\obj\Debug\netcoreapp3.1\AdventuresInCodingConsol.genruntimeconfig.cache
